@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### Experienced Artificial Intelligence Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Databases, Python, Deep Learning, Machine Learning, Internet of Things, and Mechanical Engineering. Strong engineering professional with a Bachelor of Technology - BTech focused in Mechanical Engineering from Techno India 130.
 ### I am a hard worker, always ready to accept challenges, a go better person. I am good at my academics well equipped with enough practical knowledge in diverse fields.
-### Apart from academics, I am good at many things( Machine learning, Deep learning, Neural Networks, Tensorflow, openCV). 
+### Apart from academics, I am good at many things( Machine learning, Deep learning, Neural Networks, Tensorflow, openCV).
+### 📫 Email Id: info.taritsengupta01@gmail.com
 
 <!--
 **tarit21/tarit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
